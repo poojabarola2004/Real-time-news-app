@@ -1,2 +1,2 @@
 # newsapp
-this is a real time news applications 
+This is a real-time news application.
